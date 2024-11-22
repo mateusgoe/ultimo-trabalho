@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --text-color: #5ffaff;
+  --text-color: #0004ff;
   --card-front-color: #fbff00;
-  --card-back-color: #eae4bd;
+  --card-back-color: #000000;
 }
 
 body {
@@ -82,7 +82,7 @@ body {
 
 footer {
   background-color: rgb(0, 225, 255);
-  color: rgb(251, 255, 0);
+  color: rgb(0, 0, 0);
   position: fixed;
   bottom: 0;
   width: 100%;

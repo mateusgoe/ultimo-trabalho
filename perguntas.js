@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Família',
+    'Quantos são os membros da minha família?',
+    '5! Tem eu, minha mãe, meu pai e tenho dois irmãos.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'
+    'Família',
+    'Qual o nome dos meus familiares?',
+    'Luciane, Pedro, Bruno e Bernardo.'
 )
 
 criaCartao(

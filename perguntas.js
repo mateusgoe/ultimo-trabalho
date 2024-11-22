@@ -1,7 +1,7 @@
 criaCartao(
     'Família',
     'Quantos são os membros da minha família?',
-    '5! Tem eu, minha mãe, meu pai e tenho dois irmãos.'
+    '5. Tem eu, minha mãe, meu pai e tenho dois irmãos.'
 )
 
 criaCartao(
@@ -11,23 +11,33 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é CSS?',
-    'O CSS é uma lingugem de estilização!'
+    'Futuro',
+    'Qual minha principal meta?',
+    'Eu espero conseguir construir uma bela família e prover muitas coisas boas para ela'
 )
 
 criaCartao(
-    'Programação',
-    'O que é HTML?',
-    'O HTML é uma lingugem de estruturação e semântica do conteúdo.'
+    'Futuro',
+    'Qual carreira irei seguir?',
+    'Ainda não sei ao certo o qu vou fazer, mas quero ganhar bem para sustentar minha família.'
 )
 criaCartao(
-    'Programação',
-    'O que é VSCode?',
-    'O Visual Studio Code é um editor de código com diversas integrações.s'
+    'Esporte',
+    'Quais mais me dediquei?',
+    'Quando era criança eu era goleiro de futsal, mas hoje eu jogo basquete.'
 )
 criaCartao(
-    'Programação',
-    'O que é GitHub?',
-    'O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem.'
+    'Esporte',
+    'Qual minha principal meta com o espote?',
+    'Eu sempre pensei no esporte como lazer, mas eu espero conseguir ainda algum título para minha escola e/ou município.'
+)
+criaCartao(
+    'Estudo',
+    'O que estou cursando?',
+    'Hoje estou no segundo ano do médio da área de exatas.'
+)
+criaCartao(
+    'Estudo',
+    'O que quero estudar no futuro?',
+    'Quero conseguir passar em medicina ou em concursos, como o do banco.'
 )
